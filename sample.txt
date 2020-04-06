@@ -1,2 +1,2 @@
-this is a sample.
+this isn't a sample at all.
 
